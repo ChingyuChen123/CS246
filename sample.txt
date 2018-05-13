@@ -1,1 +1,2 @@
 Hello World!
+I edited it for learning how to use git.
